@@ -1,2 +1,1 @@
-# calculator-23
-This is a calculator that performs basic arithmetic to complex functions.
+With AI chatbot. It will help customer with their menu. 
