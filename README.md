@@ -1,1 +1,1 @@
-With AI chatbot. It will help customer with their menu. 
+AI chatbot will help customer to select variety of coffee from Puerto Rico.
